@@ -1,3 +1,4 @@
 127.0.0.1 guide-acs.m.taobao.com
 127.0.0.1 acs.m.taobao.com
 127.0.0.1 amdc.m.taobao.com
+127.0.0.1 click.mz.simba.taobao.com
